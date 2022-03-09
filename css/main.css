@@ -390,3 +390,14 @@ footer .bottom .twitter:hover{
         width: 50%;
     }
 }
+@media(max-width:500px){
+    header h1 {
+        font-size: 44px;
+        margin: 0;
+    }
+    header p {
+        color: #ccc;
+        font-size: 21px;
+        margin: 18px 0;
+    }
+}
